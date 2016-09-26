@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tvshows_names">
+        <item>TV Show 1</item>
+        <item>TV Show 2</item>
+        <item>TV Show 3</item>
+        <item>TV Show 4</item>
+    </string-array>
+
+    <integer-array name="tvshows_year">
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+    </integer-array>
+</resources>
